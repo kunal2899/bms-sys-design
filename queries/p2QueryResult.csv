@@ -1,0 +1,6 @@
+"theatre_name","screen","movie_name","movie_censor_grade","movie_genre","language","movie_format","audio_codec","show_date","start_time","duration"
+Grand Cinema,1,The Great Escape,UA,Action,English,"2D",Dolby Atmos,"2023-05-28","19:00:00","2 hours 30 minutes"
+Grand Cinema,2,Laugh Out Loud,U,Comedy,English,"3D",Standard 5.1,"2023-05-28","14:30:00","1 hours 40 minutes"
+Grand Cinema,1,The Great Escape,UA,Action,English,"2D",Dolby Atmos,"2023-05-29","21:00:00","2 hours 30 minutes"
+Cineplex,5,Midnight Horror,U,Horror,English,"3D",Dolby Digital,"2023-05-28","22:00:00","2 hours 00 minutes"
+Cineplex,6,Love Story,UA,Romance,English,IMAX,Auro 11.1,"2023-05-29","15:00:00","2 hours 40 minutes"

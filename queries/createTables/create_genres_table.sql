@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS genres (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(50) NOT NULL,
+    description TEXT
+); 

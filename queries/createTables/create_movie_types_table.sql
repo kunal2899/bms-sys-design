@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS movie_types (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(20) NOT NULL,
+    description TEXT
+); 
